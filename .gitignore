@@ -1,3 +1,6 @@
+# Ignore system files
+.DS_Store
+
 # Ignore LaTeX output files
 *.aux
 *.log
