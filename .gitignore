@@ -1,0 +1,9 @@
+# Ignore LaTeX output files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
+*.vrb
